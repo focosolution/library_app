@@ -11,7 +11,7 @@ class TestBook(TransactionCase):
         # Setup test data
         self.Book = self.env['library.book']
         self.book_ode = self.Book.create({
-            'name': 'Odoo Development Essentials',
+            'nameX': 'Odoo Development Essentials',
             'isbn': '978-1-78439-279-6'})
         return result
 
