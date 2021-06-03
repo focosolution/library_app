@@ -3,4 +3,15 @@
     <menuitem id="library_menu" 
               name="Library" />
 
+    <act_window id="action_library_book"
+      name="Library Books"
+      res_model="library.book"
+      view_mode="tree,form"
+	/>
+
+   <menuitem id="menu_library_book"
+              name="Books"
+	      action="action_library_book"
+              parent="library_menu" />
+
 </odoo>
