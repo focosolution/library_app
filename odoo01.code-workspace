@@ -5,6 +5,21 @@
 		},
 		{
 			"path": "../../../Odoo-12-Development-Essentials-Fourth-Edition/ch03"
+		},
+		{
+			"path": "../../../Odoo-12-Development-Essentials-Fourth-Edition/ch04"
+		},
+		{
+			"path": "../../../Odoo-12-Development-Essentials-Fourth-Edition/ch05"
+		},
+		{
+			"path": "../../../Odoo-12-Development-Essentials-Fourth-Edition/ch06"
+		},
+		{
+			"path": "../../../Odoo-12-Development-Essentials-Fourth-Edition/ch08"
+		},
+		{
+			"path": "../library_member"
 		}
 	],
 	"settings": {}
